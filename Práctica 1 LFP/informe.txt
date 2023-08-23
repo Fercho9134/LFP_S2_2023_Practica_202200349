@@ -1,0 +1,18 @@
+INFORME DE INVENTARIO
+Producto	Cantidad	Precio unitario	Valor Total	Ubicacion
+Manzana        	100       	Q1.00          	Q100.0      	EstanteriaB
+Naranja        	15        	Q0.75          	Q11.25      	EstanteriaA
+Plátano       	12        	Q1.50          	Q18.0       	EstanteriaC
+Uva            	8         	Q2.00          	Q16.0       	EstanteriaB
+Fresa          	25        	Q0.50          	Q12.5       	EstanteriaA
+Mango          	10        	Q2.50          	Q25.0       	EstanteriaC
+Kiwi           	98        	Q1.25          	Q122.5      	EstanteriaB
+Piña          	10        	Q2.75          	Q27.5       	EstanteriaA
+Sandía        	3         	Q3.00          	Q9.0        	EstanteriaC
+Melón         	4         	Q2.25          	Q9.0        	EstanteriaB
+Papaya         	7         	Q1.75          	Q12.25      	EstanteriaA
+Durazno        	10        	Q1.20          	Q12.0       	EstanteriaC
+Cereza         	22        	Q0.80          	Q17.6       	EstanteriaB
+Ciruela        	11        	Q1.10          	Q12.1       	EstanteriaA
+Granada        	1         	Q2.20          	Q2.2        	EstanteriaC
+Manzana        	0         	Q2             	Q0.0        	EstanteriaA
